@@ -4,7 +4,7 @@ task :unit_test
 
 task :package
 
-task :functionals_01
-task :functionals_02
-task :functionals_03
-task :functionals_04
+task :functional_01
+task :functional_02
+task :functional_03
+task :functional_04
