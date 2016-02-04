@@ -1,5 +1,11 @@
-task :build
+task :build do
+  puts "Building ..."
+end
 
-task :unit_test
+task :unit_test do
+  puts "Unit testing ..."
+end
 
-task :package
+task :package do
+  puts "Packaging ..."
+end
